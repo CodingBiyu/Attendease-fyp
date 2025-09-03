@@ -65,7 +65,14 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 
 ## 🖼️ Screenshots
 
-> *(Add your screenshots here if available: QR screen, student view, admin dashboard, etc.)*
+- **Login Screen**  
+  ![Login Screen](./screenshots/Login-portrait.png)
+
+- **Sign Up Screen**  
+  ![Sign Up Screen](./screenshots/Sign%20in-portrait.png)
+
+- **Attendance Analytics (Absents per Course)**  
+  ![Graph Screen](./screenshots/Graph%20Screen-portrait.png)
 
 ---
 

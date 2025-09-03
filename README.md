@@ -78,7 +78,7 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 - 📱 **Mobile App (APK):** [Download AttendEase v1.0.0](https://github.com/CodingBiyu/Attendease-fyp/releases)  
   _(Android app for students & faculty use)_
 
-- 👨‍💼 **Admin Panel (Web):** [Admin Dashboard](https://admin-attendease.vercel.app/auth/sign-in)
+- 👨‍💼 **Admin Panel (Web):** [Admin Dashboard](https://admin-attendease.vercel.app/auth/sign-in)   
   _(Manage faculty, courses, and view attendance reports)_
 
 - 👩‍🏫 **Faculty Panel (Web):** [Faculty Dashboard](https://attendease-web.vercel.app/)  

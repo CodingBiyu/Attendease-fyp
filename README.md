@@ -65,14 +65,25 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 
 ## 🖼️ Screenshots
 
-- **Login Screen**  
-  ![Login Screen](./Preview/Login-portrait.png)
+### 📱 Mobile App
 
-- **Sign Up Screen**  
-  ![Sign Up Screen](./Preview/Sign%20in-portrait.png)
+<div align="center">
+  <img src="./Preview/Login-portrait.png" alt="Login Screen" width="200"/>
+  <img src="./Preview/Sign%20in-portrait.png" alt="Sign Up Screen" width="200"/>
+  <img src="./Preview/Graph%20Screen-portrait.png" alt="Graph Screen" width="200"/>
+  <img src="./Preview/Main%20Screen-portrait.png" alt="Main Screen" width="200"/>
+  <img src="./Preview/Profile-portrait.png" alt="Profile Screen" width="200"/>
+  <img src="./Preview/Timetable-portrait.png" alt="Timetable Screen" width="200"/>
+</div>
 
-- **Attendance Analytics (Absents per Course)**  
-  ![Graph Screen](./Preview/Graph%20Screen-portrait.png)
+---
+
+### 💻 Web App (Admin / Faculty Panel)
+
+<div align="center">
+  <img src="./Preview/Web%20Preview/Picture1-front.png" alt="Web App Front" width="600"/>
+</div>
+
 
 ---
 

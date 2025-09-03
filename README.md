@@ -35,7 +35,7 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 
 | Layer         | Technology                         |
 |---------------|---------------------------------   |
-| Frontend      | React Native (App), ReactJs(web)   |
+| Frontend      | React Native (App), ReactJs (web)  |
 | Backend       | Node.js, Express.js                |
 | Database      | MongoDB (MongoDB Compass)          |  
 | Authentication| OTP (One-Time Password)            |

@@ -17,18 +17,6 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 - 👩‍🏫 **Lecturer and Admin panel** for management and updates
 - 📶 **Offline support** with auto-sync upon reconnection
 - 🛡️ **Role-based Access Control** for Students, Lecturers, and Admin
----
-
-## Demo
-
-## 🔗 Live Access
-
-- 👨‍💼 **Admin Panel** → [Admin Dashboard](https://admin-attendease.vercel.app/)  
-   *Admins can add faculty and courses, and view attendance reports date-wise or teacher-wise.*
-
-- 👩‍🏫 **Faculty Panel** → [Faculty Dashboard](https://attendease-web.vercel.app/)  
-   *Faculty can generate QR codes for class time slots, toggle attendance, and manage session logs.*
-
 
 ---
 ## 🛠️ Tech Stack
@@ -78,7 +66,7 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 
 ---
 
-### 💻 Web App (Admin / Faculty Panel)
+### 💻 Web App ( Faculty Panel)
 
 <div align="center">
   <img src="./Preview/Web%20Preview/Picture1-front.png" alt="Web App Front" width="600"/>
@@ -86,4 +74,18 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 
 
 ---
+## 📥 Download & Access
+
+- 📱 **Mobile App (APK):** [Download AttendEase v1.0.0](https://github.com/CodingBiyu/Attendease-fyp/releases/download/v1.0.0/attendease-v1.0.0.apk)  
+  _(Android app for students & faculty use)_
+
+- 👨‍💼 **Admin Panel (Web):** [Admin Dashboard](https://admin-attendease.vercel.app/)  
+  _(Manage faculty, courses, and view attendance reports)_
+
+- 👩‍🏫 **Faculty Panel (Web):** [Faculty Dashboard](https://attendease-web.vercel.app/)  
+  _(Generate QR codes, mark/toggle attendance, manage sessions)_
+
+👉 [View all releases](https://github.com/CodingBiyu/Attendease-fyp/releases)
+
+
 

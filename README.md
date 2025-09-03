@@ -66,13 +66,13 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 ## 🖼️ Screenshots
 
 - **Login Screen**  
-  ![Login Screen](./screenshots/Login-portrait.png)
+  ![Login Screen](./Preview/Login-portrait.png)
 
 - **Sign Up Screen**  
-  ![Sign Up Screen](./screenshots/Sign%20in-portrait.png)
+  ![Sign Up Screen](./Preview/Sign%20in-portrait.png)
 
 - **Attendance Analytics (Absents per Course)**  
-  ![Graph Screen](./screenshots/Graph%20Screen-portrait.png)
+  ![Graph Screen](./Preview/Graph%20Screen-portrait.png)
 
 ---
 

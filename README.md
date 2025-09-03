@@ -15,7 +15,6 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 - 📸 **QR Code-based Attendance** for each course session
 - 🧾 Real-time **attendance reporting and logs**
 - 👩‍🏫 **Lecturer and Admin panel** for management and updates
-- 📶 **Offline support** with auto-sync upon reconnection
 - 🛡️ **Role-based Access Control** for Students, Lecturers, and Admin
 
 ---
@@ -76,7 +75,7 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 ---
 ## 📥 Download & Access
 
-- 📱 **Mobile App (APK):** [Download AttendEase v1.0.0](https://github.com/CodingBiyu/Attendease-fyp/releases/download/v1.0.0/attendease-v1.0.0.apk)  
+- 📱 **Mobile App (APK):** [Download AttendEase v1.0.0](https://github.com/CodingBiyu/Attendease-fyp/releases)  
   _(Android app for students & faculty use)_
 
 - 👨‍💼 **Admin Panel (Web):** [Admin Dashboard](https://admin-attendease.vercel.app/)  
@@ -85,7 +84,7 @@ Designed for **university-level deployment**, the system ensures accurate, real-
 - 👩‍🏫 **Faculty Panel (Web):** [Faculty Dashboard](https://attendease-web.vercel.app/)  
   _(Generate QR codes, mark/toggle attendance, manage sessions)_
 
-👉 [View all releases](https://github.com/CodingBiyu/Attendease-fyp/releases)
+
 
 
 
